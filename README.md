@@ -4,10 +4,10 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Turning+raw+data+into+decisions;Python+%7C+SQL+%7C+Power+BI+%7C+Machine+Learning;Building+end-to-end+data+solutions" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nithin-j05)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nithin777j@gmail.com)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/nithiin05)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nithiin_18/)
+[<img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="45"/>](https://www.linkedin.com/in/nithin-j05)
+[<img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="45"/>](mailto:nithin777j@gmail.com)
+[<img src="https://skillicons.dev/icons?i=twitter&theme=dark" height="45"/>](https://x.com/nithiin05)
+[<img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="45"/>](https://www.instagram.com/nithiin_18/)
 
 </div>
 
@@ -110,10 +110,10 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nithin-j05)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nithin777j@gmail.com)
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/nithiin05)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/nithiin_18/)
+[<img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="50"/>](https://www.linkedin.com/in/nithin-j05)
+[<img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="50"/>](mailto:nithin777j@gmail.com)
+[<img src="https://skillicons.dev/icons?i=twitter&theme=dark" height="50"/>](https://x.com/nithiin05)
+[<img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="50"/>](https://www.instagram.com/nithiin_18/)
 
 </div>
 
