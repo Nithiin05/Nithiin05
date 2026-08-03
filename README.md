@@ -78,16 +78,17 @@
 
 ## Featured Projects
 
-<table>
-<tr>
-<td width="50%"><a href="https://github.com/Nithiin05/global-suicide-trends-analysis"><img src="card1.svg" width="100%"/></a></td>
-<td width="50%"><a href="https://github.com/Nithiin05/movie-revenue-analytics-dashboard"><img src="card2.svg" width="100%"/></a></td>
-</tr>
-<tr>
-<td width="50%"><a href="https://github.com/Nithiin05/restaurant-consumer-insights-sql"><img src="card3.svg" width="100%"/></a></td>
-<td width="50%"><a href="https://github.com/Nithiin05/huggingface-model-analysis"><img src="card4.svg" width="100%"/></a></td>
-</tr>
-</table>
+<div align="center">
+
+<a href="https://github.com/Nithiin05/global-suicide-trends-analysis"><img src="card1.svg" width="100%"/></a>
+
+<a href="https://github.com/Nithiin05/movie-revenue-analytics-dashboard"><img src="card2.svg" width="100%"/></a>
+
+<a href="https://github.com/Nithiin05/restaurant-consumer-insights-sql"><img src="card3.svg" width="100%"/></a>
+
+<a href="https://github.com/Nithiin05/huggingface-model-analysis"><img src="card4.svg" width="100%"/></a>
+
+</div>
 
 <br/>
 
