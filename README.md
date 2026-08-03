@@ -82,52 +82,11 @@
 
 <img src="projects.svg" width="100%" alt="featured projects overview"/>
 
+<br/><br/>
+
+🔗 [Global Suicide Trends Analysis](https://github.com/Nithiin05/global-suicide-trends-analysis) · [Movie Revenue Analytics Dashboard](https://github.com/Nithiin05/movie-revenue-analytics-dashboard) · [Restaurant Consumer Insights](https://github.com/Nithiin05/restaurant-consumer-insights-sql) · [Hugging Face Model Analysis](https://github.com/Nithiin05/huggingface-model-analysis)
+
 </div>
-
-<br/>
-
-<table>
-<tr>
-<td width="50%">
-
-**[Global Suicide Trends Analysis](https://github.com/Nithiin05/global-suicide-trends-analysis)**
-
-Interactive Power BI dashboard analyzing global trends across age, gender, and region using 10,000+ records, with DAX measures and Power Query transformations.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=chartdotjs&logoColor=white)
-
-</td>
-<td width="50%">
-
-**[Movie Revenue Analytics Dashboard](https://github.com/Nithiin05/movie-revenue-analytics-dashboard)**
-
-Interactive dashboard analyzing 1,000+ movie records with slicers, filters, and 5+ DAX measures for revenue and rating insights.
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Power Query](https://img.shields.io/badge/Power_Query-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**[Restaurant Consumer Insights](https://github.com/Nithiin05/restaurant-consumer-insights-sql)**
-
-SQL analysis of 5,000+ restaurant records using joins, CTEs, subqueries, and window functions to surface pricing and cuisine trends.
-
-![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Data Analysis](https://img.shields.io/badge/Data_Analysis-4285F4?style=flat-square&logo=googleanalytics&logoColor=white)
-
-</td>
-<td width="50%">
-
-**[Hugging Face Model Analysis](https://github.com/Nithiin05/huggingface-model-analysis)**
-
-Analysis of 5,000+ ML model records pulled from the Hugging Face API, examining popularity trends by downloads, task type, and library.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-
-</td>
-</tr>
-</table>
 
 <br/>
 
