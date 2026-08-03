@@ -78,26 +78,22 @@
 
 ## Featured Projects
 
-<div align="center">
-
-<img src="projects.svg" width="100%" alt="featured projects overview"/>
-
-<br/><br/>
-
-🔗 [Global Suicide Trends Analysis](https://github.com/Nithiin05/global-suicide-trends-analysis) · [Movie Revenue Analytics Dashboard](https://github.com/Nithiin05/movie-revenue-analytics-dashboard) · [Restaurant Consumer Insights](https://github.com/Nithiin05/restaurant-consumer-insights-sql) · [Hugging Face Model Analysis](https://github.com/Nithiin05/huggingface-model-analysis)
-
-</div>
+<table>
+<tr>
+<td width="50%"><a href="https://github.com/Nithiin05/global-suicide-trends-analysis"><img src="card1.svg" width="100%"/></a></td>
+<td width="50%"><a href="https://github.com/Nithiin05/movie-revenue-analytics-dashboard"><img src="card2.svg" width="100%"/></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://github.com/Nithiin05/restaurant-consumer-insights-sql"><img src="card3.svg" width="100%"/></a></td>
+<td width="50%"><a href="https://github.com/Nithiin05/huggingface-model-analysis"><img src="card4.svg" width="100%"/></a></td>
+</tr>
+</table>
 
 <br/>
 
 ## GitHub Analytics
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Nithiin05&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nithiin05&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br/>
 
 <img src="https://streak-stats.demolab.com?user=Nithiin05&theme=tokyonight&hide_border=true" alt="streak stats"/>
 
