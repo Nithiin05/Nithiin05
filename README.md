@@ -4,11 +4,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Turning+raw+data+into+decisions;Python+%7C+SQL+%7C+Power+BI+%7C+Machine+Learning;Building+end-to-end+data+solutions" alt="Typing SVG" />
 
-[<img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="45"/>](https://www.linkedin.com/in/nithin-j05)
-[<img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="45"/>](mailto:nithin777j@gmail.com)
-[<img src="https://skillicons.dev/icons?i=twitter&theme=dark" height="45"/>](https://x.com/nithiin05)
-[<img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="45"/>](https://www.instagram.com/nithiin_18/)
-
 </div>
 
 <br/>
