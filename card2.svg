@@ -1,0 +1,12 @@
+<svg viewBox="0 0 560 150" xmlns="http://www.w3.org/2000/svg" font-family="Consolas, 'Courier New', monospace">
+  <defs>
+    <linearGradient id="purpleGlow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#a855f7"/><stop offset="100%" stop-color="#6d28d9"/>
+    </linearGradient>
+  </defs>
+  <rect x="8" y="8" width="544" height="134" rx="16" fill="#0a0e17" stroke="url(#purpleGlow)" stroke-width="2"/>
+  <text x="30" y="42" fill="#a855f7" font-size="13" font-weight="bold">&gt;_ 02 // DASHBOARD</text>
+  <text x="30" y="70" fill="#ffffff" font-size="17" font-weight="bold">Movie Revenue Analytics</text>
+  <text x="30" y="95" fill="#9ca3af" font-size="12">1,000+ movie records, 6+ visuals, 5+ DAX measures</text>
+  <text x="30" y="122" fill="#ec4899" font-size="12">Power BI · DAX · Power Query</text>
+</svg>
