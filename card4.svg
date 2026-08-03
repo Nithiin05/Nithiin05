@@ -1,12 +1,18 @@
-<svg viewBox="0 0 560 150" xmlns="http://www.w3.org/2000/svg" font-family="Consolas, 'Courier New', monospace">
+<svg viewBox="0 0 1160 300" xmlns="http://www.w3.org/2000/svg" font-family="Consolas, 'Courier New', monospace">
   <defs>
     <linearGradient id="greenGlow" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#34d399"/><stop offset="100%" stop-color="#059669"/>
     </linearGradient>
   </defs>
-  <rect x="8" y="8" width="544" height="134" rx="16" fill="#0a0e17" stroke="url(#greenGlow)" stroke-width="2"/>
-  <text x="30" y="42" fill="#34d399" font-size="13" font-weight="bold">&gt;_ 04 // API</text>
-  <text x="30" y="70" fill="#ffffff" font-size="17" font-weight="bold">Hugging Face Model Analysis</text>
-  <text x="30" y="95" fill="#9ca3af" font-size="12">5,000+ model records via Hugging Face API</text>
-  <text x="30" y="122" fill="#a855f7" font-size="12">Python · Pandas · Requests · API</text>
+  <rect x="8" y="8" width="1144" height="284" rx="18" fill="#0a0e17" stroke="url(#greenGlow)" stroke-width="2.5"/>
+
+  <text x="45" y="45" fill="#34d399" font-size="13" font-weight="bold">&gt;_ 04 // API</text>
+  <text x="45" y="82" fill="#ffffff" font-size="23" font-weight="bold">Hugging Face Model Analysis</text>
+
+  <text x="45" y="122" fill="#e5e7eb" font-size="14"><tspan fill="#34d399">▸ </tspan>Collected and processed 5,000+ ML model records from the Hugging Face API for analysis.</text>
+  <text x="45" y="152" fill="#e5e7eb" font-size="14"><tspan fill="#34d399">▸ </tspan>Cleaned and transformed data using Pandas, standardizing 6+ key fields like task type and library.</text>
+  <text x="45" y="182" fill="#e5e7eb" font-size="14"><tspan fill="#34d399">▸ </tspan>Analyzed trends in model popularity based on downloads, likes, task types, and libraries.</text>
+  <text x="45" y="212" fill="#e5e7eb" font-size="14"><tspan fill="#34d399">▸ </tspan>Implemented API pagination to efficiently handle large-scale data retrieval.</text>
+
+  <text x="45" y="260" fill="#a855f7" font-size="13" font-weight="bold">Python · Pandas · Requests · API</text>
 </svg>
