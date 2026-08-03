@@ -1,0 +1,12 @@
+<svg viewBox="0 0 560 150" xmlns="http://www.w3.org/2000/svg" font-family="Consolas, 'Courier New', monospace">
+  <defs>
+    <linearGradient id="greenGlow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#34d399"/><stop offset="100%" stop-color="#059669"/>
+    </linearGradient>
+  </defs>
+  <rect x="8" y="8" width="544" height="134" rx="16" fill="#0a0e17" stroke="url(#greenGlow)" stroke-width="2"/>
+  <text x="30" y="42" fill="#34d399" font-size="13" font-weight="bold">&gt;_ 04 // API</text>
+  <text x="30" y="70" fill="#ffffff" font-size="17" font-weight="bold">Hugging Face Model Analysis</text>
+  <text x="30" y="95" fill="#9ca3af" font-size="12">5,000+ model records via Hugging Face API</text>
+  <text x="30" y="122" fill="#a855f7" font-size="12">Python · Pandas · Requests · API</text>
+</svg>
